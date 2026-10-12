@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Zaza</title>
+  <meta name="description" content="Zaza — textile, chain and wire-rope slings. Order by phone." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="#top" id="brand">
+          <span class="brand-mark" aria-hidden="true">Z</span>
+          <span class="brand-text">
+            <span class="brand-name" data-site="name">Zaza</span>
+            <span class="brand-tagline" data-site="tagline"></span>
+          </span>
+        </a>
+
+        <div class="header-actions">
+          <nav class="lang-switch" aria-label="Language">
+            <button type="button" class="lang-btn is-active" data-lang="ka">KA</button>
+            <button type="button" class="lang-btn" data-lang="ru">RU</button>
+            <button type="button" class="lang-btn" data-lang="en">EN</button>
+          </nav>
+          <a class="phone-link" data-site="phone-link" href="tel:+995555123456">
+            <span class="phone-icon" aria-hidden="true"></span>
+            <span data-site="phone">+995 555 12 34 56</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="container">
+          <p class="hero-kicker" data-i18n="catalogSubtitle"></p>
+          <h1 data-i18n="catalogTitle"></h1>
+        </div>
+      </section>
+
+      <section class="catalog" aria-labelledby="catalog-heading">
+        <div class="container catalog-layout">
+          <aside class="filters" aria-label="Filters">
+            <h2 id="catalog-heading" class="visually-hidden" data-i18n="catalogTitle"></h2>
+            <div class="filter-list" role="tablist">
+              <button type="button" class="filter-btn is-active" data-filter="all" data-i18n="filterAll"></button>
+              <button type="button" class="filter-btn" data-filter="textile" data-i18n="filterTextile"></button>
+              <button type="button" class="filter-btn" data-filter="chain" data-i18n="filterChain"></button>
+              <button type="button" class="filter-btn" data-filter="rope" data-i18n="filterRope"></button>
+            </div>
+          </aside>
+
+          <div class="catalog-main">
+            <p class="catalog-status" data-status hidden></p>
+            <div class="product-grid" id="product-grid" aria-live="polite">
+              <p class="loading" data-i18n="loading"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="order-strip">
+        <div class="container order-strip-inner">
+          <div>
+            <h2 data-i18n="orderStripTitle"></h2>
+            <p data-i18n="orderStripText"></p>
+          </div>
+          <a class="btn btn-primary btn-lg" data-site="phone-link" href="tel:+995555123456">
+            <span data-i18n="callToOrder"></span>
+            <span data-site="phone">+995 555 12 34 56</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="documents" aria-labelledby="documents-heading">
+        <div class="container">
+          <div class="section-head">
+            <h2 id="documents-heading" data-i18n="documentsTitle"></h2>
+            <p data-i18n="documentsSubtitle"></p>
+          </div>
+          <ul class="document-list" id="document-list"></ul>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>
+          <strong data-site="name">Zaza</strong>
+          <p data-site="address"></p>
+        </div>
+        <div>
+          <h3 data-i18n="footerContact"></h3>
+          <a data-site="phone-link" href="tel:+995555123456">
+            <span data-site="phone">+995 555 12 34 56</span>
+          </a>
+          <a data-site="email-link" href="mailto:orders@zaza.ge">
+            <span data-site="email">orders@zaza.ge</span>
+          </a>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <a class="sticky-call" data-site="phone-link" href="tel:+995555123456">
+    <span data-i18n="stickyCall"></span>
+    <span data-site="phone">+995 555 12 34 56</span>
+  </a>
+
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

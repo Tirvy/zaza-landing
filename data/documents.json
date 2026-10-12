@@ -1,0 +1,74 @@
+[
+  {
+    "id": "passport-stp",
+    "file": "documents/passport-stp.pdf",
+    "title": {
+      "ka": "ტექსტილის მარყუჟიანი სტროპი СТП — პასპორტი",
+      "ru": "Стропы текстильные петлевые СТП — паспорт",
+      "en": "Textile loop sling STP — passport"
+    }
+  },
+  {
+    "id": "passport-stk",
+    "file": "documents/passport-stk.pdf",
+    "title": {
+      "ka": "ტექსტილის რგოლიანი სტროპი СТК — პასპორტი",
+      "ru": "Стропы текстильные кольцевые СТК — паспорт",
+      "en": "Textile round sling STK — passport"
+    }
+  },
+  {
+    "id": "passport-2st",
+    "file": "documents/passport-2st.pdf",
+    "title": {
+      "ka": "ტექსტილის ორტოტიანი 2СТ — პასპორტი",
+      "ru": "Строп текстильный 2СТ — паспорт",
+      "en": "Two-leg textile sling 2ST — passport"
+    }
+  },
+  {
+    "id": "passport-1sc",
+    "file": "documents/passport-1sc.pdf",
+    "title": {
+      "ka": "ჯაჭვის ერთტოტიანი 1СЦ — პასპორტი",
+      "ru": "Строп цепной одноветвевой 1СЦ — паспорт",
+      "en": "Single-leg chain sling 1SC — passport"
+    }
+  },
+  {
+    "id": "passport-2sc",
+    "file": "documents/passport-2sc.pdf",
+    "title": {
+      "ka": "ჯაჭვის ორტოტიანი 2СЦ — პასპორტი",
+      "ru": "Строп цепной двухветвевой 2СЦ — паспорт",
+      "en": "Two-leg chain sling 2SC — passport"
+    }
+  },
+  {
+    "id": "passport-4sc",
+    "file": "documents/passport-4sc.pdf",
+    "title": {
+      "ka": "ჯაჭვის ოთხტოტიანი 4СЦ — პასპორტი",
+      "ru": "Строп цепной четырехветвевой 4СЦ — паспорт",
+      "en": "Four-leg chain sling 4SC — passport"
+    }
+  },
+  {
+    "id": "passport-skp",
+    "file": "documents/passport-skp.pdf",
+    "title": {
+      "ka": "კაბელის მარყუჟიანი СКП — პასპორტი",
+      "ru": "Строп канатный петлевой СКП — паспорт",
+      "en": "Wire-rope loop sling SKP — passport"
+    }
+  },
+  {
+    "id": "passport-1sk",
+    "file": "documents/passport-1sk.pdf",
+    "title": {
+      "ka": "კაბელის ერთტოტიანი 1СК — პასპორტი",
+      "ru": "Строп канатный одноветвевой 1СК — паспорт",
+      "en": "Single-leg wire-rope sling 1SK — passport"
+    }
+  }
+]

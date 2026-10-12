@@ -1,0 +1,16 @@
+{
+  "name": "Zaza",
+  "phone": "+995 555 12 34 56",
+  "phoneHref": "tel:+995555123456",
+  "email": "orders@zaza.ge",
+  "address": {
+    "ka": "თბილისი, რუსთაველის გამზ. 1",
+    "ru": "Тбилиси, пр. Руставели 1",
+    "en": "Tbilisi, Rustaveli Ave 1"
+  },
+  "tagline": {
+    "ka": "სანდო ამწევი აღჭურვილობა",
+    "ru": "Надёжное грузоподъёмное оборудование",
+    "en": "Reliable lifting equipment"
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "stp",
+    "category": "textile",
+    "image": "images/sling-textile-loop.svg",
+    "availability": "on_order",
+    "priceFrom": 15,
+    "name": {
+      "ka": "ტექსტილის მარყუჟიანი სტროპი СТП",
+      "ru": "Стропы текстильные петлевые СТП",
+      "en": "Textile loop sling STP"
+    }
+  },
+  {
+    "id": "stk",
+    "category": "textile",
+    "image": "images/sling-textile-round.svg",
+    "availability": "in_stock",
+    "priceFrom": 15,
+    "name": {
+      "ka": "ტექსტილის რგოლიანი სტროპი СТК",
+      "ru": "Стропы текстильные кольцевые СТК",
+      "en": "Textile round sling STK"
+    }
+  },
+  {
+    "id": "stk-p",
+    "category": "textile",
+    "image": "images/sling-textile-loop.svg",
+    "availability": "in_stock",
+    "priceFrom": 28,
+    "name": {
+      "ka": "მრგვალთოკიანი მარყუჟიანი СТКп",
+      "ru": "Стропы текстильные круглопрядные петлевые СТКп",
+      "en": "Round-strand loop sling STKp"
+    }
+  },
+  {
+    "id": "stk-k",
+    "category": "textile",
+    "image": "images/sling-textile-round.svg",
+    "availability": "on_order",
+    "priceFrom": null,
+    "name": {
+      "ka": "მრგვალთოკიანი რგოლიანი СТКк",
+      "ru": "Стропы текстильные круглопрядные кольцевые СТКк",
+      "en": "Round-strand endless sling STKk"
+    }
+  },
+  {
+    "id": "2st",
+    "category": "textile",
+    "image": "images/sling-textile-loop.svg",
+    "availability": "in_stock",
+    "priceFrom": 145,
+    "name": {
+      "ka": "ტექსტილის ორტოტიანი 2СТ",
+      "ru": "Строп текстильный 2СТ",
+      "en": "Two-leg textile sling 2ST"
+    }
+  },
+  {
+    "id": "4st",
+    "category": "textile",
+    "image": "images/sling-textile-loop.svg",
+    "availability": "on_order",
+    "priceFrom": 210,
+    "name": {
+      "ka": "ტექსტილის ოთხტოტიანი 4СТ",
+      "ru": "Строп текстильный 4СТ",
+      "en": "Four-leg textile sling 4ST"
+    }
+  },
+  {
+    "id": "1sc",
+    "category": "chain",
+    "image": "images/sling-chain.svg",
+    "availability": "in_stock",
+    "priceFrom": 95,
+    "name": {
+      "ka": "ჯაჭვის ერთტოტიანი 1СЦ",
+      "ru": "Строп цепной одноветвевой 1СЦ",
+      "en": "Single-leg chain sling 1SC"
+    }
+  },
+  {
+    "id": "2sc",
+    "category": "chain",
+    "image": "images/sling-chain.svg",
+    "availability": "in_stock",
+    "priceFrom": 160,
+    "name": {
+      "ka": "ჯაჭვის ორტოტიანი 2СЦ",
+      "ru": "Строп цепной двухветвевой 2СЦ",
+      "en": "Two-leg chain sling 2SC"
+    }
+  },
+  {
+    "id": "4sc",
+    "category": "chain",
+    "image": "images/sling-chain.svg",
+    "availability": "on_order",
+    "priceFrom": 320,
+    "name": {
+      "ka": "ჯაჭვის ოთხტოტიანი 4СЦ",
+      "ru": "Строп цепной четырехветвевой 4СЦ",
+      "en": "Four-leg chain sling 4SC"
+    }
+  },
+  {
+    "id": "skp",
+    "category": "rope",
+    "image": "images/sling-rope.svg",
+    "availability": "in_stock",
+    "priceFrom": 28,
+    "name": {
+      "ka": "კაბელის მარყუჟიანი СКП",
+      "ru": "Строп канатный петлевой СКП",
+      "en": "Wire-rope loop sling SKP"
+    }
+  },
+  {
+    "id": "1sk",
+    "category": "rope",
+    "image": "images/sling-rope.svg",
+    "availability": "in_stock",
+    "priceFrom": 55,
+    "name": {
+      "ka": "კაბელის ერთტოტიანი 1СК",
+      "ru": "Строп канатный одноветвевой 1СК",
+      "en": "Single-leg wire-rope sling 1SK"
+    }
+  },
+  {
+    "id": "4sk",
+    "category": "rope",
+    "image": "images/sling-rope.svg",
+    "availability": "on_order",
+    "priceFrom": null,
+    "name": {
+      "ka": "კაბელის ოთხტოტიანი 4СК",
+      "ru": "Строп канатный четырехветвевой 4СК",
+      "en": "Four-leg wire-rope sling 4SK"
+    }
+  }
+]

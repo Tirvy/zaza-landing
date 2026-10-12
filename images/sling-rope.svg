@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-label="Wire rope sling">
+  <rect width="160" height="160" rx="20" fill="#F7F2E9"/>
+  <path d="M52 38c0-8 6-14 14-14h28c8 0 14 6 14 14v8c0 5-4 9-9 9H61c-5 0-9-4-9-9v-8Z" stroke="#8A94A0" stroke-width="8"/>
+  <path d="M66 55c2 18 4 34 4 52" stroke="#6E7884" stroke-width="8" stroke-linecap="round"/>
+  <path d="M80 55c0 18 0 34 0 52" stroke="#8A94A0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M94 55c-2 18-4 34-4 52" stroke="#6E7884" stroke-width="8" stroke-linecap="round"/>
+  <path d="M70 107c4 12 10 18 18 22" stroke="#C56A2D" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="98" cy="132" r="8" stroke="#C56A2D" stroke-width="6"/>
+  <circle cx="52" cy="38" r="5" fill="#2F3D4A"/>
+  <circle cx="108" cy="38" r="5" fill="#2F3D4A"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none" role="img" aria-label="Textile loop sling">
+  <rect width="160" height="160" rx="20" fill="#F7F2E9"/>
+  <path d="M48 42c0-10 8-18 18-18h28c10 0 18 8 18 18v12c0 6-4 10-10 10H58c-6 0-10-4-10-10V42Z" stroke="#C56A2D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M58 64v34c0 18 14 32 32 32h0c18 0 32-14 32-32V64" stroke="#C56A2D" stroke-width="12" stroke-linecap="round"/>
+  <path d="M58 64v34c0 18 14 32 32 32h0c18 0 32-14 32-32V64" stroke="#E8A16A" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="48" cy="42" r="7" fill="#2F3D4A"/>
+  <circle cx="112" cy="42" r="7" fill="#2F3D4A"/>
+</svg>
